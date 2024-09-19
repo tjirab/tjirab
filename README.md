@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @tjirab
-- 👀 I’m interested in data
+- 🏢 Analytics Engineer at Miro
+- 📍 Based in The Kingdom of the Netherlands
 
 <!---
 tjirab/tjirab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
