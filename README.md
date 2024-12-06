@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tjirab
-- 🏢 Analytics Engineer at Miro
+- 🏢 <null>
 - 📍 Based in The Kingdom of the Netherlands
 
 <!---
