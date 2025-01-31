@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tjirab
 - 🏢 <null>
-- 📍 Based in The Kingdom of the Netherlands
+- 📍 NL
 
 <!---
 tjirab/tjirab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
